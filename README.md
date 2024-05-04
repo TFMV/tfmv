@@ -9,7 +9,6 @@ This document outlines major projects undertaken, highlighting purposes and impa
 - [AI-Powered Resume Ranking System for 66degrees](#ai-powered-resume-ranking-system-for-66degrees)
 - [Database Migration for Storj](#database-migration-for-storj)
 - [Data Ingestion Framework for AutoZone](#data-ingestion-framework-for-autozone)
-- [Data Synchronization Solution for Government Client](#data-synchronization-solution-for-government-client)
 - [Turbo Data Mover Development](#turbo-data-mover-development)
 
 ## Database Migration Factory for Wayfair
@@ -58,13 +57,6 @@ Implement a new data ingestion framework using Apache Beam and Google Cloud Data
 - Enabled real-time data processing.
 - Improved data accuracy and integration.
 - Streamlined data management.
-
-## Data Synchronization Solution for Government Client
-### Purpose
-Develop a data synchronization solution to ensure real-time data consistency across government systems.
-### Impact
-- Enhanced operational efficiency.
-- Improved data integrity and compliance with privacy regulations.
 
 ## Turbo Data Mover Development
 ### Purpose

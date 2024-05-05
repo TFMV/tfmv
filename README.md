@@ -6,7 +6,6 @@ This document outlines major projects undertaken, highlighting purposes and impa
 - [Database Migration Factory for Wayfair](#database-migration-factory-for-wayfair)
 - [Streaming Platform Migration for ViewLift](#streaming-platform-migration-for-viewlift)
 - [Google Cloud BigQuery ML Pipeline and MLOps for Panera](#google-cloud-bigquery-ml-pipeline-and-mlops-for-panera)
-- [AI-Powered Resume Ranking System for 66degrees](#ai-powered-resume-ranking-system-for-66degrees)
 - [Database Migration for Storj](#database-migration-for-storj)
 - [Data Ingestion Framework for AutoZone](#data-ingestion-framework-for-autozone)
 - [Turbo Data Mover Development](#turbo-data-mover-development)
@@ -35,7 +34,7 @@ Develop the first BQML pipeline and a new MLOps framework.
 - Reduced costs.
 - Accelerated ML deployment and reduced labor costs by accurately forecasting demand.
 
-## AI-Powered Resume Ranking System for 66degrees
+## AI-Powered Resume Ranking System
 ### Purpose
 Automate and optimize resume screening to enhance recruitment efficiency.
 ### Impact

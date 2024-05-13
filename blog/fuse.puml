@@ -1,11 +1,18 @@
 @startuml
-
-!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Sequence.puml
 
 skinparam rectangle {
     BorderColor Black
     BorderThickness 2
 }
+
+' Assuming sprites for entities like databases and applications are available
+' You would include the sprite definitions here or refer to their specific paths
+' For instance:
+' !define SPRITEURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master
+' !includeurl SPRITEURL/devicons/apache.puml
+' !includeurl SPRITEURL/devicons/rust.puml
+' sprite $rust [Rust] 
 
 participant "Rust Application" as Rust
 database "GCS FUSE" as GCSFuse
@@ -14,6 +21,7 @@ participant "Apache Arrow" as Arrow
 participant "Parquet" as Parquet
 entity "Semaphore" as Semaphore
 
+' Use sprite by calling $rust() if sprites are defined
 Rust -> Parquet : Read Parquet file\nusing SerializedFileReader
 Parquet -> Arrow : Convert to Arrow format\nusing ParquetFileArrowReader
 Arrow -> Rust : Return RecordBatch
@@ -38,5 +46,4 @@ end
 
 Rust -> Semaphore : Release semaphore\nafter operations
 Rust -> PostgreSQL : Close connection\nafter all batches
-
 @enduml

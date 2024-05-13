@@ -1,0 +1,42 @@
+@startuml
+
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+skinparam rectangle {
+    BorderColor Black
+    BorderThickness 2
+}
+
+participant "Rust Application" as Rust
+database "GCS FUSE" as GCSFuse
+database "PostgreSQL" as PostgreSQL
+participant "Apache Arrow" as Arrow
+participant "Parquet" as Parquet
+entity "Semaphore" as Semaphore
+
+Rust -> Parquet : Read Parquet file\nusing SerializedFileReader
+Parquet -> Arrow : Convert to Arrow format\nusing ParquetFileArrowReader
+Arrow -> Rust : Return RecordBatch
+
+Rust -> GCSFuse : Mount GCS Bucket\nas a local filesystem
+GCSFuse -> Rust : Provide access to files\nas local storage
+
+Rust -> PostgreSQL : Create table SQL
+PostgreSQL -> Rust : Confirm table creation
+
+Rust -> Semaphore : Acquire semaphore to\ncontrol concurrency
+Semaphore -> Rust : Semaphore acquired
+
+loop For each RecordBatch
+    Rust -> PostgreSQL : Prepare and execute\ninsert statements
+    alt Successful Insertion
+        PostgreSQL -> Rust : Confirm insertion
+    else Insertion Error
+        PostgreSQL -> Rust : Error details
+    end
+end
+
+Rust -> Semaphore : Release semaphore\nafter operations
+Rust -> PostgreSQL : Close connection\nafter all batches
+
+@enduml

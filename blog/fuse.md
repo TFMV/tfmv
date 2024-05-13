@@ -109,6 +109,7 @@ cargo run
 ## Results
 
 Rows Inserted: 1_500_000
+
 Time Taken: 36.96 seconds
 
 ## Conclusion

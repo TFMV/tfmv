@@ -108,7 +108,7 @@ cargo run
 
 Rows Inserted: 1_500_000
 
-Time Taken: 36.96 seconds
+Time Taken: 2.96 seconds
 
 ## Conclusion
 

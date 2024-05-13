@@ -6,14 +6,6 @@ skinparam rectangle {
     BorderThickness 2
 }
 
-' Assuming sprites for entities like databases and applications are available
-' You would include the sprite definitions here or refer to their specific paths
-' For instance:
-' !define SPRITEURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master
-' !includeurl SPRITEURL/devicons/apache.puml
-' !includeurl SPRITEURL/devicons/rust.puml
-' sprite $rust [Rust] 
-
 participant "Rust Application" as Rust
 database "GCS FUSE" as GCSFuse
 database "PostgreSQL" as PostgreSQL
@@ -21,7 +13,6 @@ participant "Apache Arrow" as Arrow
 participant "Parquet" as Parquet
 entity "Semaphore" as Semaphore
 
-' Use sprite by calling $rust() if sprites are defined
 Rust -> Parquet : Read Parquet file\nusing SerializedFileReader
 Parquet -> Arrow : Convert to Arrow format\nusing ParquetFileArrowReader
 Arrow -> Rust : Return RecordBatch

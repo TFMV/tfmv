@@ -37,10 +37,6 @@ let mut arrow_reader = ParquetFileArrowReader::new(Arc::new(file_reader));
 let insert_statement = "INSERT INTO my_table VALUES ($1, $2, $3)";
 ```
 
-### Application Architecture
-
-Consider a Rust application that reads Parquet files, processes them, and writes the data into PostgreSQL. Below is a simplified code snippet demonstrating this process:
-
 ## Integrating GCS Fuse
 
 ### Installation on Debian/Ubuntu

@@ -191,6 +191,9 @@ As a Senior Data and Analytics Architect with nearly a dozen patents, I am dedic
 - **Jason Blythe, Practice Manager, Data Engineering, Protagona**  
   "Tom consistently demonstrated a profound understanding of GCP's data services and how to architect robust data solutions."
 
+- **Nidhi Rajput, Cloud Data Architect, Datastage**
+  "Tommy is the go-to person when you need someone to dive into uncharted territory and make sense of it all. If you're looking for someone who's not only a cloud wizard but also a fantastic team player, Tommy is the person you want."
+  
 - **Jennifer Schmitz, Business Operations Systems Support Manager, Delta Dental of Missouri**
   "I had the pleasure of working with Tom on several complex data warehousing initiatives... He thought through the design/code impact, suggesting efficiencies and increasing time to market."
 

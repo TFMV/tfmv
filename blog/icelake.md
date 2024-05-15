@@ -106,6 +106,54 @@ async fn create_iceberg_table() -> Result<(), Box<dyn std::error::Error>> {
 }
 ```
 
+Alternatively
+
+```SQL
+ # Creates a stored procedure that initializes BLMS and database.
+ # Creates a table in the database and populates a few rows of data.
+ CREATE OR REPLACE PROCEDURE iceberg_demo.iceberg_setup_3_3 ()
+ WITH CONNECTION `PROCEDURE_CONNECTION_PROJECT_ID.PROCEDURE_CONNECTION_REGION.PROCEDURE_CONNECTION_ID`
+ OPTIONS(engine="SPARK",
+ jar_uris=["gs://spark-lib/biglake/biglake-catalog-iceberg1.2.0-0.1.0-with-dependencies.jar"],
+ properties=[
+ ("spark.jars.packages","org.apache.iceberg:iceberg-spark-runtime-3.3_2.12:1.2.0"),
+ ("spark.sql.catalog.CATALOG", "org.apache.iceberg.spark.SparkCatalog"),
+ ("spark.sql.catalog.CATALOG.catalog-impl", "org.apache.iceberg.gcp.biglake.BigLakeCatalog"),
+ ("spark.sql.catalog.CATALOG.hms_uri: HMS_URI")
+ ("spark.sql.catalog.CATALOG.gcp_project", "PROJECT_ID"),
+ ("spark.sql.catalog.CATALOG.gcp_location", "LOCATION"),
+ ("spark.sql.catalog.CATALOG.blms_catalog", "CATALOG"),
+ ("spark.sql.catalog.CATALOG.warehouse", "DATA_WAREHOUSE_URI")
+ ]
+ )
+ LANGUAGE PYTHON AS R'''
+ from pyspark.sql import SparkSession
+
+ spark = SparkSession \
+   .builder \
+   .appName("BigLake Iceberg Example") \
+   .enableHiveSupport() \
+   .getOrCreate()
+
+ spark.sql("CREATE NAMESPACE IF NOT EXISTS CATALOG;")
+ spark.sql("CREATE DATABASE IF NOT EXISTS CATALOG.CATALOG_DB;")
+ spark.sql("DROP TABLE IF EXISTS CATALOG.CATALOG_DB.CATALOG_TABLE;")
+
+ /* Create a BigLake Metastore table and a BigQuery Iceberg table. */
+ spark.sql("CREATE TABLE IF NOT EXISTS CATALOG.CATALOG_DB.CATALOG_TABLE (id bigint, demo_name string)
+           USING iceberg
+           TBLPROPERTIES(bq_table='BQ_DATASET.BQ_TABLE', bq_connection='TABLE_CONNECTION_PROJECT_ID.TABLE_CONNECTION_REGION.TABLE_CONNECTION_ID');
+           ")
+
+ /* Copy a Hive Metastore table to BigLake Metastore. Can be used together with
+    TBLPROPERTIES `bq_table` to create a BigQuery Iceberg table. */
+ spark.sql("CREATE TABLE CATALOG.CATALOG_DB.CATALOG_TABLE (id bigint, demo_name string)
+            USING iceberg
+            TBLPROPERTIES(hms_table='HMS_DB.HMS_TABLE');")
+ ''';
+ ```
+
+
 ### Querying Iceberg Tables with BigLake
 
 When your Iceberg tables are prepped and primed, it's time to unleash the full power of GCP BigLake. You have two options: you can either hit the BigLake API like a mad scientist in a data lab or take the civilized route and use BigQuery to execute your queries. BigLake’s federated query capability integrates seamlessly with Iceberg tables chilling in Google Cloud Storage, offering a smooth, unhindered access to your data cosmos. Whether you prefer the raw, unfiltered power of the API or the structured finesse of BigQuery, BigLake has got you covered.

@@ -33,9 +33,7 @@ Google Cloud BigLake extends the formidable capabilities of BigQuery to data sto
 
 ## The Frenzied Symphony of GCP BigLake Architecture
 
-![BigLake Architecture](biglake_arch.png)
-
-In the heart of the digital wilds, where data flows like a psychedelic river through the canyons of Silicon Valley, Google Cloud Platform's BigLake stands as a towering monolith of innovation. The architecture of BigLake is a testament to the relentless pursuit of data nirvana, combining the raw power of compute with the fluidity of cross-cloud orchestration. 
+In the heart of the digital wilds, where data flows like a psychedelic river through the canyons of Silicon Valley, Google Cloud Platform's BigLake stands as a towering monolith of innovation. The architecture of BigLake is a testament to the relentless pursuit of data nirvana, combining the raw power of compute with the fluidity of cross-cloud orchestration.
 
 ### GCP BigLake Architecture: A Dive into the Madness
 

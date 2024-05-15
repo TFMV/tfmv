@@ -1,4 +1,4 @@
-# Revolutionizing Data Architecture with Apache Iceberg and GCP BigLake
+# Revolutionizing Data Architecture with Iceberg and BigLake
 
 ![Iceberg and BigLake](bl.webp)
 

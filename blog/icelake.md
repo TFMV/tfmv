@@ -61,11 +61,6 @@ At the foundation of this architectural marvel lies the dual pillars of storage 
 
 And finally, in the grand symphony of BigLake architecture, BigQuery Omni serves as the cross-cloud conductor. It extends the reach of BigQuery beyond the confines of GCP, enabling seamless queries across different cloud platforms. This is the maestro that orchestrates harmony in a multi-cloud world, breaking down silos and unifying data under one cohesive framework.
 
-## Conclusion
-
-The architecture of GCP BigLake is a frenetic yet harmonious blend of cutting-edge technologies and robust design principles. It's a testament to Google's vision of a unified data ecosystem, where disparate data sources come together in a symphony of efficiency and performance. As we delve deeper into this architectural wonder, we realize that we're not just handling data – we're navigating a complex, beautiful, and endlessly fascinating digital landscape.
-
-
 ## Integrating Iceberg with BigLake
 
 Bringing Apache Iceberg and GCP BigLake together is like combining two unstoppable forces in data architecture. Here's how to leverage their combined strengths:
@@ -165,3 +160,7 @@ Optimize performance when querying Iceberg tables via BigLake with these strateg
 Partition Pruning: Use Iceberg’s partitioning to minimize the amount of data scanned during queries.
 Columnar Storage: Store data in columnar formats like Parquet for faster analytical queries.
 Snapshot Management: Regularly manage snapshots to keep metadata overhead low and query performance high.
+
+## Conclusion
+
+The architecture of GCP BigLake is a frenetic yet harmonious blend of cutting-edge technologies and robust design principles. It's a testament to Google's vision of a unified data ecosystem, where disparate data sources come together in a symphony of efficiency and performance. As we delve deeper into this architectural wonder, we realize that we're not just handling data – we're navigating a complex, beautiful, and endlessly fascinating digital landscape.

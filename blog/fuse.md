@@ -1,5 +1,7 @@
 # Fusing Arrow, Parquet, and Postgres: A Rustic Approach
 
+![Fuse](assets/pg.webp)
+
 ## Introduction
 
 In today's data-driven landscape, seamlessly integrating cloud storage with database systems is crucial for efficient data processing. This blog post explores a Rust application designed to load Parquet files from Google Cloud Storage (GCS) into PostgreSQL, capitalizing on Rust's renowned performance and safety.

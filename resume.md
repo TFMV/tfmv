@@ -182,6 +182,9 @@ As a Senior Data and Analytics Architect with nearly a dozen patents, I am dedic
 
 ### References
 
+- **Daniel Zagales, Director of Data Engineering, 66degress**
+  "Tom was a valuable member of my team at 66degrees, serving as a Data Architect primarily responsible for leading database migration projects. His expertise in designing and developing database migration tooling was instrumental in creating accelerators that significantly improved our efficiency and effectiveness in data migration projects. Tom's meticulous and detail-oriented approach, combined with his deep understanding of database technologies, consistently led to successful project outcomes. He is a true asset to any team."
+
 - **Gary Horn, Former Colleague, MasterCard**  
   "Thomas is an extremely capable programmer... There is no problem he would consider unsolvable."
   

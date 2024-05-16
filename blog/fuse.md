@@ -23,7 +23,7 @@ Rust is celebrated for its performance and safety, offering an optimal choice fo
 
 ### Application Architecture
 
-![Data Flow](pq_to_pg.png "Application Architecture")
+![Data Flow](assets/pq_to_pg.png "Application Architecture")
 
 Below is a simplified architecture of a Rust application that reads Parquet files and writes data into PostgreSQL:
 

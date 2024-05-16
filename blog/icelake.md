@@ -1,6 +1,6 @@
 # Revolutionizing Data Architecture with Iceberg and BigLake
 
-![Iceberg and BigLake](bl.webp)
+![Iceberg and BigLake](assets/bl.webp)
 
 In the chaotic landscape of big data, where the stakes are high and the margins thin, efficiency in data management and analytics isn't just a luxury—it's a lifeline. Enter Apache Iceberg and Google Cloud Platform's BigLake, the dynamic duo poised to revolutionize the way we handle sprawling, complex datasets. Buckle up, folks. We're about to dive deep into the technical heart of these game-changers and see how their combined prowess can reshape data infrastructure as we know it.
 
@@ -27,11 +27,9 @@ Google Cloud BigLake extends the formidable capabilities of BigQuery to data sto
 - **Security and Governance:** BigLake integrates seamlessly with Google Cloud's security tools, offering robust data access controls, auditing, and compliance management.
 - **Cost Efficiency:** Query data in place, reducing the need for data duplication and movement. This translates to significant cost savings on both storage and processing.
 
-## BigLake Architecture
-
-![Iceberg and BigLake](biglake_arch.png)
-
 ## The Frenzied Symphony of GCP BigLake Architecture
+
+![Iceberg and BigLake](assets/biglake_arch.png)
 
 In the heart of the digital wilds, where data flows like a psychedelic river through the canyons of Silicon Valley, Google Cloud Platform's BigLake stands as a towering monolith of innovation. The architecture of BigLake is a testament to the relentless pursuit of data nirvana, combining the raw power of compute with the fluidity of cross-cloud orchestration.
 

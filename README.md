@@ -56,3 +56,8 @@ Connect with me to discuss potential collaborations, or if you’re looking for 
 
 - **LinkedIn**: [tfmv5](https://www.linkedin.com/in/tfmv5)
 - **GitHub**: [TFMV](https://www.github.com/tfmv)
+
+## Links :link:
+
+- My cat Lux's website: [www.luxstl.com](http://www.luxstl.com)
+- My LLC website: [www.velocedata.io](http://www.velocedata.io)

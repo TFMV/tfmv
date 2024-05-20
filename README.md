@@ -22,7 +22,7 @@ A Go solution for approximate entity matching, focusing on standardizing street 
 
 ### 🧠 PromptTriad
 
-An innovative Go API hosted on Cloud Run that leverages three competing AI models (OpenAI, Gemini, and Coherence) to collaboratively engineer and optimize the best possible prompt from any given input. The project focuses on integrating these APIs, implementing response evaluation using cosine similarity, and providing robust logging and monitoring.
+An innovative Go API hosted on Cloud Run that leverages three competing AI models (OpenAI, Gemini, and Cohere) to collaboratively engineer and optimize the best possible prompt from any given input. The project focuses on integrating these APIs, implementing response evaluation using cosine similarity, and providing robust logging and monitoring.
 
 ### :elephant: GCS2Postgres
 

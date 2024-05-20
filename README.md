@@ -1,5 +1,7 @@
 # Thomas F McGeehan V - Data Technology Architect
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 ## About
 
 Welcome to the GitHub repository of Thomas F McGeehan V, a seasoned Data Technology Architect with a rich portfolio spanning over two decades in the field of data engineering and analytics. I hold nearly a dozen patents and have led several high-impact projects across various industries, demonstrating a consistent commitment to excellence and innovation.
@@ -7,22 +9,36 @@ Welcome to the GitHub repository of Thomas F McGeehan V, a seasoned Data Technol
 ## Expertise
 
 My technical expertise encompasses:
+
 - **Data Architecture & Engineering**: Designing and implementing resilient, performant, and scalable data platforms that cover all phases of data lifecycle management, from ingestion and integration to consumption and analytics.
 - **Machine Learning & AI**: Democratizing machine learning applications, making advanced analytics accessible in innovative ways.
 - **Cloud Solutions**: Extensive experience with major cloud platforms, including both public clouds and on-premise solutions.
 
-## Experience Highlights
+## Current Projects
 
-- **Cloud Data Architect (Recent Role)**: Spearheaded numerous initiatives including database migrations, the creation of a Change Data Capture (CDC) solution, and significantly contributed to winning and nurturing key business accounts.
-- **Data Science Leadership**: Led the establishment of new methodologies for ML model deployments and initiated the first Vertex AI pipeline using advanced tools.
-- **Data Technology Architect**: Led the migration of data systems to modern database solutions and developed enterprise-wide data solutions.
-- **Data Warehouse Architect**: Managed key architectural initiatives, including a platform that consolidated business intelligence and data analytics into a single data-mart.
+### FuzzyMatchFinder
 
-## Projects
+A Go solution for approximate entity matching, focusing on standardizing street addresses in the USA. This project utilizes advanced algorithms to ensure high accuracy and efficiency in entity resolution tasks.
 
-- **Database Migration Factory**: Transitioned from on-premise SQL Server to modern cloud SQL solutions, enhancing operational efficiency and reducing costs.
-- **Streaming Platform Migration**: Transitioned to a major cloud provider, improving scalability, reliability, and data analytics capabilities.
-- **AI-Powered Resume Ranking System**: Developed an AI system to automate and optimize the recruitment process, improving hiring quality and efficiency.
+### PromptTriad
+
+An innovative Go API hosted on Cloud Run that leverages three competing AI models (OpenAI, Gemini, and Coherence) to collaboratively engineer and optimize the best possible prompt from any given input. The project focuses on integrating these APIs, implementing response evaluation using cosine similarity, and providing robust logging and monitoring.
+
+### GCS2Postgres
+
+A Go-based solution designed to load various open data formats stored in Google Cloud Storage (GCS) and BigQuery into a PostgreSQL database. It supports multiple file formats, utilizes BigQuery for data processing, and ensures secure PostgreSQL credentials retrieval from Google Secret Manager.
+
+### LinguisticLens
+
+An API for analyzing text using OpenAI's language model, focusing on emotional, factual, and implicit aspects. It identifies and explores dark triad traits, hidden meanings, and tonal nuances to provide a comprehensive text analysis. Built using the Gin framework.
+
+### BQ Multi Agent
+
+A platform leveraging multiple AI agents to interact with Google BigQuery for enhanced data analytics. This project aims to optimize query performance and provide insightful data analytics through a multi agent architecture.
+
+### ArrowLake
+
+A data lakehouse architecture integrating Apache Arrow and Iceberg to optimize large-scale data processing, analytics, and real-time streaming. This project includes vector database integration using pgvector for GenAI, LLMs, and transformer architectures, and leverages Storj for decentralized, secure, and scalable cloud storage.
 
 ## Core Values
 
@@ -33,10 +49,6 @@ My technical expertise encompasses:
 ## Contact
 
 Connect with me to discuss potential collaborations, or if you’re looking for guidance or mentorship in data technology and architecture:
-- **Email**: [mcgeehan@gmail.com](mailto:mcgeehan@gmail.com)
+
 - **LinkedIn**: [tfmv5](https://www.linkedin.com/in/tfmv5)
 - **GitHub**: [TFMV](https://www.github.com/tfmv)
-
-## Licensing
-
-This project is available under the MIT License. See the LICENSE file for more information.

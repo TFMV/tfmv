@@ -1,6 +1,6 @@
-# Thomas F McGeehan V - Data Technology Architect
+# Thomas F McGeehan V
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+## Enterprise Data Technology Architect
 
 ## About
 

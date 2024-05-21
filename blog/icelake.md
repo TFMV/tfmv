@@ -146,7 +146,6 @@ Alternatively
  ''';
  ```
 
-
 ### Querying Iceberg Tables with BigLake
 
 When your Iceberg tables are prepped and primed, it's time to unleash the full power of GCP BigLake. You have two options: you can either hit the BigLake API like a mad scientist in a data lab or take the civilized route and use BigQuery to execute your queries. BigLake’s federated query capability integrates seamlessly with Iceberg tables chilling in Google Cloud Storage, offering a smooth, unhindered access to your data cosmos. Whether you prefer the raw, unfiltered power of the API or the structured finesse of BigQuery, BigLake has got you covered.

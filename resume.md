@@ -156,14 +156,13 @@ As a Senior Data and Analytics Architect with nearly a dozen patents, I am dedic
 - **AI and Machine Learning Platforms:** Proficient in using TensorFlow, BQML, and Vertex AI for designing and deploying scalable machine learning models, significantly improving decision-making and operational efficiency.
 - **Automation and DevOps Tools:** Advanced expertise in using Kubernetes, Docker, and Terraform for automating deployment, scaling, and management of containerized applications, ensuring robust, efficient, and consistent environment setups.
 
-
 #### Cloud & Data Technologies
 
 - **Data Warehousing & ETL:** Deep knowledge in constructing data warehouses using platforms like Oracle, Netezza, and Teradata. Expert in ETL processes and tools such as Informatica and Dataflow.
 - **Machine Learning:** Applying ML models in production environments, using tools like BQML and TensorFlow within GCP ecosystems.
 - **Infrastructure as Code (IaC):** Proficient with Terraform and Google Cloud Deployment Manager to automate and manage cloud resources efficiently.
 - **Data Visualization & Business Intelligence:** Skilled in tools like Tableau and Looker for dynamic and impactful data presentations.
-
+- **BigQuery BigFunctions:** Active contributor to open source BigFunctions project.
 
 ### Certifications
 

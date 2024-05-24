@@ -16,7 +16,7 @@ My technical expertise encompasses:
 
 ## Current Projects 🔥
 
-### BigQuery BigFunctions
+### :heavy_multiplication_x: BigQuery BigFunctions
 
 As an active contributor to the open-source BigFunctions project, I help develop advanced SQL functions that extend the capabilities of Google BigQuery, enabling more efficient and powerful data transformations and analyses.
 

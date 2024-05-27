@@ -58,7 +58,7 @@ A Go implementation of the Apache Arrow Flight SQL protocol. This project enable
 
 Connect with me to discuss potential collaborations, or if you’re looking for guidance or mentorship in data technology and architecture:
 
-- **LinkedIn**: [tfmv5](https://www.linkedin.com/in/tfmv5)
+- **LinkedIn**: [tfmv5](https://www.linkedin.com/in/tfmv)
 - **GitHub**: [TFMV](https://www.github.com/tfmv)
 
 ## Links :link:

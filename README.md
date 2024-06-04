@@ -65,3 +65,4 @@ Connect with me to discuss potential collaborations, or if you’re looking for 
 
 - My cat Lux's website: [www.luxstl.com](http://www.luxstl.com)
 - My LLC website: [www.velocedata.io](http://www.velocedata.io)
+- Leet Code Profile: [leetcode](https://leetcode.com/u/tfmv/)

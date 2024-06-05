@@ -2,6 +2,9 @@
 
 ## Enterprise Data Technology Architect
 
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TFMV&show_icons=true)
+
 ## About 🧑‍💻
 
 Welcome to the GitHub repository of Thomas F McGeehan V, a seasoned Data Technology Architect with a rich portfolio spanning over two decades in the field of data engineering and analytics. I hold nearly a dozen patents and have led several high-impact projects across various industries, demonstrating a consistent commitment to excellence and innovation.

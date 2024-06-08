@@ -44,9 +44,11 @@ My technical expertise encompasses:
 
 ## Core Values ✅
 
-- **Innovation 💡**: Continuously pushing the boundaries of technology to create solutions that not only meet current needs but also foresee and address future challenges.
-- **Leadership 🏆**: Building and nurturing teams that are not only technically proficient but also innovative and forward-thinking.
-- **Excellence ⭐**: Consistently striving to exceed expectations through high-quality work and persistent dedication to improving and evolving in all aspects of technology and leadership.
+| Value | Description |
+|-------|-------------|
+| **Innovation 💡** | Continuously pushing the boundaries of technology to create solutions that not only meet current needs but also foresee and address future challenges. |
+| **Leadership 🏆** | Building and nurturing teams that are not only technically proficient but also innovative and forward-thinking. |
+| **Excellence ⭐** | Consistently striving to exceed expectations through high-quality work and persistent dedication to improving and evolving in all aspects of technology and leadership. |
 
 ## Contact 📬
 

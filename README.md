@@ -25,9 +25,12 @@ Welcome to the GitHub repository of Thomas F McGeehan V, a seasoned Data Technol
 
 My technical expertise encompasses:
 
-- **Data Architecture & Engineering 🏗️**: Designing and implementing resilient, performant, and scalable data platforms that cover all phases of data lifecycle management, from ingestion and integration to consumption and analytics.
-- **Machine Learning & AI 🤖**: Democratizing machine learning applications, making advanced analytics accessible in innovative ways.
-- **Cloud Solutions ☁️**: Extensive experience with major cloud platforms, including both public clouds and on-premise solutions.
+| Expertise | Description |
+|-----------|-------------|
+| **Data Architecture & Engineering 🏗️** | Designing and implementing resilient, performant, and scalable data platforms that cover all phases of data lifecycle management, from ingestion and integration to consumption and analytics. |
+| **Machine Learning & AI 🤖** | Democratizing machine learning applications, making advanced analytics accessible in innovative ways. |
+| **Cloud Solutions ☁️** | Extensive experience with major cloud platforms, including both public clouds and on-premise solutions. |
+
 
 ## Current Projects 🔥
 

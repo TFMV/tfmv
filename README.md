@@ -1,9 +1,13 @@
-# Thomas F McGeehan V
+<p align="center">
+<a href="https://github.com/TFMV">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Thomas+F+McGeehan+V;Data+Architect+%7C+Data Scientist+%7C+Software+Engineer;AI+%7C+Cloud+%7C+Data Engineering" alt="Typing SVG" />
+</a>
+<br/>
 
-## Enterprise Data Technology Architect
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TFMV&theme=dracula) 
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TFMV&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TFMV&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TFMV&theme=dracula)
 
 ## About 🧑‍💻
 

@@ -23,13 +23,11 @@ Welcome to the GitHub repository of Thomas F McGeehan V, a seasoned Data Technol
 
 ## Expertise 🌟
 
-My technical expertise encompasses:
-
-| Expertise | Description |
-|-----------|-------------|
-| **Data Architecture & Engineering 🏗️** | Designing and implementing resilient, performant, and scalable data platforms that cover all phases of data lifecycle management, from ingestion and integration to consumption and analytics. |
-| **Machine Learning & AI 🤖** | Democratizing machine learning applications, making advanced analytics accessible in innovative ways. |
-| **Cloud Solutions ☁️** | Extensive experience with major cloud platforms, including both public clouds and on-premise solutions. |
+|  | Expertise | Description |
+|-------|-----------|-------------|
+| 🏗️ | **Data Architecture & Engineering** | Designing and implementing resilient, performant, and scalable data platforms that cover all phases of data lifecycle management, from ingestion and integration to consumption and analytics. |
+| 🤖 | **Machine Learning & AI** | Democratizing machine learning applications, making advanced analytics accessible in innovative ways. |
+| ☁️ | **Cloud Solutions** | Extensive experience with major cloud platforms, including both public clouds and on-premise solutions. |
 
 
 ## Current Projects 🔥
@@ -47,11 +45,12 @@ My technical expertise encompasses:
 
 ## Core Values ✅
 
-| Value | Description |
-|-------|-------------|
-| **Innovation 💡** | Continuously pushing the boundaries of technology to create solutions that not only meet current needs but also foresee and address future challenges. |
-| **Leadership 🏆** | Building and nurturing teams that are not only technically proficient but also innovative and forward-thinking. |
-| **Excellence ⭐** | Consistently striving to exceed expectations through high-quality work and persistent dedication to improving and evolving in all aspects of technology and leadership. |
+|  | Value | Description |
+|-------|-------|-------------|
+| 💡 | **Innovation** | Continuously pushing the boundaries of technology to create solutions that not only meet current needs but also foresee and address future challenges. |
+| 🏆 | **Leadership** | Building and nurturing teams that are not only technically proficient but also innovative and forward-thinking. |
+| ⭐ | **Excellence** | Consistently striving to exceed expectations through high-quality work and persistent dedication to improving and evolving in all aspects of technology and leadership. |
+
 
 ## Contact 📬
 

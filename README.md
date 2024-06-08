@@ -23,7 +23,7 @@ My technical expertise encompasses:
 
 As an active contributor to the open-source BigFunctions project, I help develop advanced SQL functions that extend the capabilities of Google BigQuery, enabling more efficient and powerful data transformations and analyses.
 
-### 🔍 FuzzyMatchFinder
+### 🔍 AddressMatchPro
 
 A Go solution for approximate entity matching, focusing on standardizing street addresses in the USA. This project utilizes advanced algorithms to ensure high accuracy and efficiency in entity resolution tasks.
 

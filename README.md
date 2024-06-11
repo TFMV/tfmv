@@ -17,6 +17,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TFMV&theme=dracula" alt="profile-summary-cards">
 </p>
 
+![](https://komarev.com/ghpvc/?username=TFMV)
+
 ## About 🧑‍💻
 
 Welcome to the GitHub repository of Thomas F McGeehan V, a seasoned Data Technology Architect with a rich portfolio spanning over two decades in the field of data engineering and analytics. I hold nearly a dozen patents and have led several high-impact projects across various industries, demonstrating a consistent commitment to excellence and innovation.
@@ -28,7 +30,6 @@ Welcome to the GitHub repository of Thomas F McGeehan V, a seasoned Data Technol
 | 🏗️ | **Data Architecture & Engineering** | Designing and implementing resilient, performant, and scalable data platforms that cover all phases of data lifecycle management, from ingestion and integration to consumption and analytics. |
 | 🤖 | **Machine Learning & AI** | Democratizing machine learning applications, making advanced analytics accessible in innovative ways. |
 | ☁️ | **Cloud Solutions** | Extensive experience with major cloud platforms, including both public clouds and on-premise solutions. |
-
 
 ## Current Projects 🔥
 

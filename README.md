@@ -1,10 +1,4 @@
 <p align="center">
-<a href="https://github.com/TFMV">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Thomas+F+McGeehan+V;Data+Architect+%7C+Data+Scientist+%7C+Software+Engineer;AI+%7C+Cloud+%7C+Data+Engineering" alt="Typing SVG" />
-</a>
-</p>
-
-<p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=TFMV&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
 </p>
 

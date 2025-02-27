@@ -24,4 +24,5 @@ Connect with me to discuss potential collaborations, or if you’re looking for 
 
 - My cat Lux's website: [www.luxstl.com](http://www.luxstl.com)
 - My Poetry website: [https://tfmv.github.io/poems/](https://tfmv.github.io/poems/)
+- My Blog [https://tfmv.github.io/blog/](https://tfmv.github.io/blog/)
 - Leet Code Profile: [www.leetcode.com/u/tfmv](https://leetcode.com/u/tfmv/)

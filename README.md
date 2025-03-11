@@ -22,8 +22,8 @@ Connect with me to discuss potential collaborations, or if you’re looking for 
 
 ## Links 🔗
 
-- My Medium Articles: [https://medium.com/@mcgeehan](https://medium.com/@mcgeehan)
-- My cat Lux's website: [www.luxstl.com](http://www.luxstl.com)
-- My Poetry website: [https://tfmv.github.io/poems/](https://tfmv.github.io/poems/)
-- My Blog website [https://tfmv.github.io/blog/](https://tfmv.github.io/blog/)
-- Leet Code Profile: [www.leetcode.com/u/tfmv](https://leetcode.com/u/tfmv/)
+- My Medium articles: [https://medium.com/@mcgeehan](https://medium.com/@mcgeehan)
+- My cat's website: [www.luxstl.com](http://www.luxstl.com)
+- My poetry website: [https://tfmv.github.io/poems/](https://tfmv.github.io/poems/)
+- My blog website: [https://tfmv.github.io/blog/](https://tfmv.github.io/blog/)
+- My Leet profile: [www.leetcode.com/u/tfmv](https://leetcode.com/u/tfmv/)

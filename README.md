@@ -22,7 +22,7 @@ Connect with me to discuss potential collaborations, or if you’re looking for 
 
 ## Links 🔗
 
-- My Medium articles: [https://medium.com/@mcgeehan](https://medium.com/@mcgeehan)
+- My Medium articles: [https://medium.com/@tfmv](https://medium.com/@tfmv)
 - My cat's website: [www.luxstl.com](http://www.luxstl.com)
 - My poetry website: [https://tfmv.github.io/poems/](https://tfmv.github.io/poems/)
 - My blog website: [https://tfmv.github.io/blog/](https://tfmv.github.io/blog/)

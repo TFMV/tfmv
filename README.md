@@ -15,8 +15,6 @@
 
 ## Contact 📬
 
-Connect with me to discuss potential collaborations, or if you’re looking for guidance or mentorship in data technology and architecture:
-
 - **LinkedIn**: [TFMV](https://www.linkedin.com/in/tfmv)
 - **GitHub**: [TFMV](https://www.github.com/tfmv)
 

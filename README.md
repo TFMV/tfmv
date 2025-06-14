@@ -34,14 +34,14 @@ I like:
 
 | 🛠 Project     | 📖 Description |
 |---------------|----------------|
-| 🧹 [**Sweeper**](https://github.com/TFMV/sweeper) | Secure, zero-trust cleanup for your dev machine. Comes with `--nuclear` mode. Use wisely. |
-| 🔐 [**Lockbox**](https://github.com/TFMV/lockbox) | Secure, high-performance columnar data storage with Arrow. Fast data, under lock and key. |
-| 🧠 [**Resolve**](https://github.com/TFMV/resolve) | Semantic entity matching engine. Knows who you *really* are. |
-| 🦾 [**Quiver**](https://github.com/TFMV/quiver) | Hybrid vector database built on Apache Arrow. Fast enough to question reality. |
-| 🕸️ [**Needle**](https://github.com/TFMV/needle) | HNSW index in pure Arrow. Zero-copy, low-allocation, disturbingly fast. |
-| 🧊 [**Icebox**](https://github.com/TFMV/icebox) | A single-binary Apache Iceberg playground. Batteries included, cloud optional. |
-| 🏹 [**Arrowport**](https://github.com/TFMV/arrowport) | High-performance Arrow-to-DuckDB/Delta bridge. Where Arrow streams land gracefully in DuckDB ponds. |
-| 🦆 [**DuckTales**](https://github.com/TFMV/ducktales) | Demo suite for DuckLake, the SQL-native lakehouse format. Features rollback safety, time travel, schema evolution, and small file optimization. |
+| [**Sweeper**](https://github.com/TFMV/sweeper) | Secure, zero-trust cleanup for your dev machine. Comes with `--nuclear` mode. Use wisely. |
+| [**Lockbox**](https://github.com/TFMV/lockbox) | Secure, high-performance columnar data storage with Arrow. Fast data, under lock and key. |
+| [**Resolve**](https://github.com/TFMV/resolve) | Semantic entity matching engine. Knows who you *really* are. |
+| [**Quiver**](https://github.com/TFMV/quiver) | Hybrid vector database built on Apache Arrow. Fast enough to question reality. |
+| [**Needle**](https://github.com/TFMV/needle) | HNSW index in pure Arrow. Zero-copy, low-allocation, disturbingly fast. |
+| [**Icebox**](https://github.com/TFMV/icebox) | A single-binary Apache Iceberg playground. Batteries included, cloud optional. |
+| [**Arrowport**](https://github.com/TFMV/arrowport) | High-performance Arrow-to-DuckDB/Delta bridge. Where Arrow streams land gracefully in DuckDB ponds. |
+| [**DuckTales**](https://github.com/TFMV/ducktales) | Demo suite for DuckLake, the SQL-native lakehouse format. Features rollback safety, time travel, schema evolution, and small file optimization. |
 
 ---
 

@@ -34,6 +34,7 @@ I like:
 
 - [**Sweeper**](https://github.com/TFMV/sweeper): Secure, zero-trust cleanup for your dev machine. Comes with `--nuclear` mode. Use wisely.
 - [**Resolve**](https://github.com/TFMV/resolve): Semantic entity matching engine. Knows who you *really* are.
+- [**Lockbox**](https://github.com/TFMV/lockbox): Secure, high-performance columnar data storage with Arrow. Fast data, under lock and key.
 - [**Icebox**](https://github.com/TFMV/icebox): A single-binary Apache Iceberg playground. Batteries included, cloud optional.
 - [**Quiver**](https://github.com/TFMV/quiver): Hybrid vector database built on Apache Arrow. Fast enough to question reality.
 - [**Needle**](https://github.com/TFMV/needle): HNSW index in pure Arrow. Zero-copy, low-allocation, disturbingly fast.

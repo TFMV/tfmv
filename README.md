@@ -26,7 +26,7 @@ I like:
 - 🦆 DuckDB, Apache Arrow, Go, Rust
 - 🧪 Entity resolution, vector search, zero-copy data movement
 - 🧹 Cleaning up dev machines like they're crime scenes (`sweeper.sh`)
-- 💥 Making analytics engines cry (on purpose)
+- 💥 Making analytics engines cry
 
 ---
 
@@ -69,5 +69,3 @@ Or just tell someone about that weird project with the cartoon name that *actual
 
 ---
 
-> *"Build the thing. Then write about it. Then ship it like it’s the last thing you’ll ever be proud of."*  
-> — probably me, at 3AM

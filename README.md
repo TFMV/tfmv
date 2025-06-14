@@ -19,8 +19,8 @@
 
 ## 🧠 Who I Am
 
-Hi, I’m TFMV but you can just call me Tom. I build weirdly fast tools, write sharp technical essays, and occasionally name my projects after cartoons.  
-My work lives somewhere between operating systems and metaphysics. Also sometimes in `/tmp`.
+Hi, I’m TFMV but you can just call me Tom. I build weirdly fast tools, write technical essays, and occasionally name my projects after cartoons.
+My work generally lives in `/tmp`.
 
 I like:
 - 🦆 DuckDB, Apache Arrow, Go, Rust
@@ -47,17 +47,16 @@ I like:
 
 ## 📬 Contact
 
-- **LinkedIn**: [TFMV](https://www.linkedin.com/in/tfmv)  
+- **LinkedIn**: [TFMV](https://www.linkedin.com/in/tfmv)
 
 ---
 
 ## 🔗 Other Links
 
-- ✍️ Medium: [medium.com/@tfmv](https://medium.com/@tfmv)  
-- 🐈 My cat's website: [www.luxstl.com](http://www.luxstl.com)  
-- 📜 Poetry: [tfmv.github.io/poems](https://tfmv.github.io/poems/)  
-- 🧵 Blog: [tfmv.github.io/blog](https://tfmv.github.io/blog/)  
+- ✍️ Medium: [medium.com/@tfmv](https://medium.com/@tfmv)
+- 🐈 My cat's website: [www.luxstl.com](http://www.luxstl.com)
+- 📜 Poetry: [tfmv.github.io/poems](https://tfmv.github.io/poems/)
+- 🧵 Blog: [tfmv.github.io/blog](https://tfmv.github.io/blog/)
 - 🧠 LeetCode: [leetcode.com/u/tfmv](https://leetcode.com/u/tfmv/)
 
 ---
-

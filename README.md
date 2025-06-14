@@ -36,7 +36,7 @@ I like:
 - [**Resolve**](https://github.com/TFMV/resolve): Semantic entity matching engine. Knows who you *really* are.
 - [**Icebox**](https://github.com/TFMV/icebox): A single-binary Apache Iceberg playground. Batteries included, cloud optional.
 - [**Quiver**](https://github.com/TFMV/quiver): Hybrid vector database built on Apache Arrow. Fast enough to question reality.
-
+- [**Needle**](https://github.com/TFMV/needle): HNSW index in pure Arrow. Zero-copy, low-allocation, disturbingly fast.
 ---
 
 ## 🙏 How You Can Help

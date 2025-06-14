@@ -65,7 +65,7 @@ Or just tell someone about that weird project with the cartoon name that *actual
 - 🐈 My cat's website: [www.luxstl.com](http://www.luxstl.com)  
 - 📜 Poetry: [tfmv.github.io/poems](https://tfmv.github.io/poems/)  
 - 🧵 Blog: [tfmv.github.io/blog](https://tfmv.github.io/blog/)  
-- 🧠 LeetCode (for when I forget how `for` loops work): [leetcode.com/u/tfmv](https://leetcode.com/u/tfmv/)
+- 🧠 LeetCode: [leetcode.com/u/tfmv](https://leetcode.com/u/tfmv/)
 
 ---
 

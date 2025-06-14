@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 Who I Am
+## whoami
 
 Hi, I’m TFMV but you can just call me Tom. I build weirdly fast tools, write technical essays, and occasionally name my projects after cartoons.
 My work generally lives in `/tmp`.

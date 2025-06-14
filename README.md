@@ -19,7 +19,7 @@
 
 ## 🧠 Who I Am
 
-Hi, I’m TFMV but you can call me Tom. I build weirdly fast tools, write sharp technical essays, and occasionally name my projects after cartoons.  
+Hi, I’m TFMV but you can just call me Tom. I build weirdly fast tools, write sharp technical essays, and occasionally name my projects after cartoons.  
 My work lives somewhere between operating systems and metaphysics. Also sometimes in `/tmp`.
 
 I like:

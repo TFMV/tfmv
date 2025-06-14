@@ -45,20 +45,6 @@ I like:
 
 ---
 
-## 🙏 How You Can Help
-
-I’m building a lot of open-source stuff, mostly solo.  
-If something here made your life easier (or weirder), I’d be thrilled if you:
-
-- ⭐️ Star a repo
-- 🐛 File a bug
-- 🧠 Open a discussion
-- 💬 Say hi
-
-Or just tell someone about that weird project with the cartoon name that *actually worked*.
-
----
-
 ## 📬 Contact
 
 - **LinkedIn**: [TFMV](https://www.linkedin.com/in/tfmv)  

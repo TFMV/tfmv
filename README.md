@@ -36,6 +36,7 @@ I like:
 |---------------|----------------|
 | [**Sweeper**](https://github.com/TFMV/sweeper) | Secure, zero-trust cleanup for your dev machine. Comes with `--nuclear` mode. Use wisely. |
 | [**Lockbox**](https://github.com/TFMV/lockbox) | Secure, high-performance columnar data storage with Arrow. Fast data, under lock and key. |
+| [**Archery**](https://github.com/TFMV/archery) | Idiomatic compute operations over Apache Arrow in Go. Slice faster, sort smarter, filter clean. |
 | [**Resolve**](https://github.com/TFMV/resolve) | Semantic entity matching engine. Knows who you *really* are. |
 | [**Quiver**](https://github.com/TFMV/quiver) | Hybrid vector search engine. Fast enough to question reality. |
 | [**Needle**](https://github.com/TFMV/needle) | HNSW index in pure Arrow. Zero-copy, low-allocation, disturbingly fast. |

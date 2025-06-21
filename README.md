@@ -37,6 +37,7 @@ I like:
 | [**Porter**](https://github.com/TFMV/porter)       | Minimalist Flight SQL server. 470+ MB/s throughput, sub-ms latency, & zero-copy analytics over DuckDB/Clickhouse  |
 | [**Sweeper**](https://github.com/TFMV/sweeper)     | Secure, zero-trust cleanup for your dev machine. Comes with `--nuclear` mode. Use wisely.                         |
 | [**Lockbox**](https://github.com/TFMV/lockbox)     | Secure, columnar data storage with Arrow. Fast data, under lock and key.                                          |
+| [**Carve**](https://github.com/TFMV/carve)         | Extracts structured Arrow data from unstructured logs using regex. Think `grep` meets `Feather`.                  |
 | [**Tightrope**](https://github.com/TFMV/tightrope) | Minimalist config auditor for YAML, JSON, and TOML. Detects conflicts, secrets, and bad patterns with zero setup. |
 | [**Archery**](https://github.com/TFMV/archery)     | Idiomatic compute operations over Apache Arrow in Go. Slice faster, sort smarter, filter clean.                   |
 | [**Resolve**](https://github.com/TFMV/resolve)     | Semantic entity matching engine. Knows who you *really* are.                                                      |

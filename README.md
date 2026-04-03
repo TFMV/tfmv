@@ -58,7 +58,6 @@ I like:
 ## 🔗 Other Links
 
 - ✍️ **Medium** → [medium.com/@tfmv](https://medium.com/@tfmv)
-- 🐈 **My Cat's Website** → [luxstl.com](http://www.luxstl.com)
 - 📜 **Poetry** → [tfmv.github.io/poems](https://tfmv.github.io/poems/)
 - 🧵 **Blog** → [tfmv.github.io/blog](https://tfmv.github.io/blog/)
 - 🧠 **LeetCode** → [leetcode.com/u/tfmv](https://leetcode.com/u/tfmv/)

@@ -34,7 +34,7 @@ I like:
 
 | 🛠 Project                                         | 📖 Description                                                                                                    |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [**Porter**](https://github.com/TFMV/porter)       | Minimalist Flight SQL server. 470+ MB/s throughput, sub-ms latency, & zero-copy analytics over DuckDB/Clickhouse  |
+| [**Porter**](https://github.com/TFMV/porter)       | Minimalist Flight SQL server. 1500+ MB/s throughput, sub-ms latency, & zero-copy analytics over DuckDB/Clickhouse  |
 | [**Sweeper**](https://github.com/TFMV/sweeper)     | Secure, zero-trust cleanup for your dev machine. Comes with `--nuclear` mode. Use wisely.                         |
 | [**Lockbox**](https://github.com/TFMV/lockbox)     | Secure, columnar data storage with Arrow. Fast data, under lock and key.                                          |
 | [**Carve**](https://github.com/TFMV/carve)         | Extracts structured Arrow data from unstructured logs using regex. Think `grep` meets `Feather`.                  |
